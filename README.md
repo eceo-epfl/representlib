@@ -59,3 +59,6 @@ The dataset provided as part of the RepreSent project follows a specific folder 
         - uc4_odc.py
         - uc4_resnet.py
     - tools
+ 
+  ## Model Weights
+  The trained weights can be found obtained from [HERE](https://drive.google.com/file/d/1k5Xapz2I_SPckxukp0X8E3mKiJPyphGd/view). Unzip the weights into the code `represent` directory for using them with the notebooks.
